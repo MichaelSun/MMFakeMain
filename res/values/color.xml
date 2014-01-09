@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- base color -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray1">#AAAAAA</color>
+    <color name="gray2">#999999</color>
+    <color name="gray3">#BBBBBB</color>
+    <color name="gray4">#333333</color>
+    <color name="gray5">#666666</color>
+    <color name="gray6">#F2F2F2</color>
+    <color name="gray7">#DEDEDE</color>
+    <color name="gray8">#c3c3c1</color>
+
+    <color name="fake_cover">#a0000000</color>
+    <color name="fake_text">#00ff00</color>
+
+    <!-- 默认的EditText中光标的提示颜色 -->
+    <drawable name="edit_highlight">#8622ab</drawable>
+
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="transparent">#00000000</color>
+    <color name="action_bar_bg_pressed_color">#20000000</color>
+
+    <!-- main page -->
+    <color name="main_page_tab_btn_selected_color">#0d0d0d</color>
+    <color name="main_page_chat_item_bg_pressed_color">#f2f2f2</color>
+    <color name="broadcast_area_controller_bg_pressed_color">#0c000000</color>
+
+
+    <!-- setting -->
+    <color name="setting_clickable_item_bg_pressed_color">#f8f8f8</color>
+    <drawable name="setting_default_header">#ced0d1</drawable>
+
+    <!-- chat -->
+    <color name="chat_text_color_a">#ffffff</color>
+    <color name="chat_text_color_b">#232424</color>
+    <color name="chat_text_color_c">#9fa0a1</color>
+    <color name="chat_text_color_d">#ced0d1</color>
+    <color name="chat_text_color_e">#8622ab</color>
+    <color name="chat_text_color_f">#b6d334</color>
+    <color name="chat_text_color_g">#ff5859</color>
+    <color name="chat_text_color_h">#007efe</color>
+
+    <drawable name="chat_default_avatar">#ced0d1</drawable>
+    <drawable name="chat_default_cover">#ced0d1</drawable>
+    <drawable name="chat_background">#e3e4e6</drawable>
+    <drawable name="large_image_view_background">#000000</drawable>
+</resources>
