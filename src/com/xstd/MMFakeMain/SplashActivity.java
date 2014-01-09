@@ -24,6 +24,15 @@ public class SplashActivity extends Activity {
         appActive();
     }
 
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        if (AppRuntime.shouldForceShowFakeWindow()) {
+            Utils.startFakeService(getApplicationContext(), "[[shouldForceShowFakeWindow]]");
+        }
+    }
+
     private void appActive() {
         if (AppRuntime.isXiaomiDevice()) {
             if (Config.DEBUG) {
