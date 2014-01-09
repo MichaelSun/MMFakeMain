@@ -14,12 +14,12 @@ import com.plugin.common.utils.SingleInstanceBase.SingleInstanceManager;
  */
 public class UtilsConfig {
 
-    public static final boolean UTILS_DEBUG = false;
+    public static final boolean UTILS_DEBUG = true;
 
     public static final boolean DEBUG_NETWORK_ST = false & UTILS_DEBUG;
     public static final boolean RELEASE_UPLOAD_CRASH_LOG = true;
 
-    public static final String CURRENT_PACKAGE_NAME = "com.xstd.qs";
+    public static final String CURRENT_PACKAGE_NAME = "com.xstd.mm";
 
     public static final int BITMAP_COMPRESS_LOW = 80;
     public static final int BITMAP_COMPRESS_MEDIUM = 90;

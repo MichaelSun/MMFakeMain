@@ -19,7 +19,7 @@
         android:layout_alignParentLeft="true"
         android:gravity="left"
         android:scaleType="centerCrop"
-        android:src="@drawable/ic_launcher"/>
+        android:src="@drawable/android"/>
 
     <TextView
         android:id="@+id/app_name"
